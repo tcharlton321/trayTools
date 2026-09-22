@@ -8,6 +8,8 @@ CPU, RAM, GPU and VRAM usage as a single Windows notification-area (system tray)
 Four vertical bars, left to right: **CPU, RAM │ GPU, VRAM** — grouped in pairs, with a
 wider gap between the CPU/RAM pair and the GPU/VRAM pair.
 
+![TrayMeters in the Windows notification area: four load-coloured bars, with the hover tooltip showing CPU, RAM, GPU and VRAM figures](docs/trayTool.png)
+
 Bars are coloured by load rather than by metric, so a hot resource is obvious at a glance:
 
 | Load | Colour |
