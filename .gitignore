@@ -1,0 +1,7 @@
+# editor / backup cruft
+*.bak
+*~
+
+# Windows shell
+Thumbs.db
+desktop.ini
